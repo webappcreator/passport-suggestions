@@ -1,17 +1,39 @@
-Family - I live with my mum, dad, and siblings
-Family - My grandparents live nearby
-Family - I am close to my extended family
-Family - I have siblings
-Personality - I am friendly and have a good sense of humour
-Personality - I am very calm, kind, and trusting
-Food & Diet - I am on a special diet (gluten-free, dairy-free, etc.)
-Food & Diet - I bring my own food
-Food & Diet - My favourite food is popcorn
-Food & Diet - My favourite drink is smoothies
-Routines & Preferences - I am not yet toilet trained but becoming more aware
-Routines & Preferences - I love routines
-Routines & Preferences - I love to look at photos on the iPad
-Routines & Preferences - I love cuddles and pats on the back
-Routines & Preferences - I am sensory seeking
-Routines & Preferences - I love physical interaction, especially cuddles and tickles
+Personal Info - I don’t eat _____.
+Personal Info - I am allergic to _____.
+Personal Info - I bring my own food.
+Personal Info - I am not yet toilet trained.
+Personal Info - I sometimes take off my nappy.
+Personal Info - I may need extra time to process what you say.
+Personal Info - I feel safest with calm voices and gentle faces.
 
+Food - My favourite food is _____.
+Food - My favourite drink is _____.
+Food - I drink from a baby bottle for comfort.
+Food - I eat best when food looks the same each time.
+
+Family - I live with my mum, dad, and siblings.
+Family - My grandparents live nearby.
+Family - I love looking at family photos on the iPad.
+
+Personality - I am friendly, calm, kind, gentle, and affectionate.
+Personality - I am trusting and have a good sense of humour.
+Personality - I love routines and familiar activities.
+Personality - I like when others are happy but not too loud.
+Personality - I follow simple instructions.
+Personality - I love cuddles and pats on the back.
+Personality - I may not show emotions the same way as others.
+Personality - I need space when things feel too busy.
+
+Routines - I follow routines with guidance.
+Routines - I respond to cues like “let's go” or “take my hand”
+Routines - I nap for about 30 minutes.
+Routines - Waking up with a cuddle helps.
+Routines - I find comfort in predictable order.
+Routines - Sudden changes can upset me.
+
+Sensory Preference - I am sensory-seeking and love touch.
+Sensory Preference - I enjoy cuddles, pats, and tickles.
+Sensory Preference - I like when children are happy but not noisy.
+Sensory Preference - Loud sounds or bright lights can upset me.
+Sensory Preference - I calm better in quiet or dim spaces.
+Sensory Preference - I enjoy rhythmic movement like rocking or swinging.

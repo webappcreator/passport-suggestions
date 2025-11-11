@@ -1,9 +1,12 @@
-Auditory Calming - You can sing to calm me
-Auditory Calming - Make gentle noises to soothe me
-Auditory Calming - Use a calm, soft voice
-Physical Comfort - Give me a hug
-Physical Comfort - Pat my back gently
-Physical Comfort - Offer a favourite toy
-Environmental - Take me to a quiet space
-Environmental - Give me time and space
+Auditory Calming - Use a calm, gentle voice or soft sounds.
+Auditory Calming - Sing or hum quietly to soothe me.
+Auditory Calming - I like familiar songs.
 
+Physical Comfort - Give me a hug or cuddle.
+Physical Comfort - Pat my back gently.
+Physical Comfort - Hold my hand or sit close.
+Physical Comfort - Offer my favourite toy.
+Physical Comfort - Stay nearby to help me feel safe.
+
+Environmental - Take me to a quiet space.
+Environmental - Give me time and space to settle.
