@@ -1,0 +1,9 @@
+Processing Time - Allow me time to process a question before I respond
+Processing Time - Give me wait time (10 seconds)
+Language Strategies - Try rephrasing a sentence if I don't understand
+Language Strategies - Use simple, clear language
+Language Strategies - Speak in a soft, calm voice
+Visual & Physical Supports - Use visual supports
+Visual & Physical Supports - Show me what you mean
+Visual & Physical Supports - Use gestures along with words
+
