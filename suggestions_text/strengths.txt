@@ -1,17 +1,13 @@
-Personality Traits - I am friendly and approachable
-Personality Traits - I have a great sense of humour
-Personality Traits - I am kind and caring
-Personality Traits - I am calm in most situations
-Personality Traits - I am trusting
-Personality Traits - I am gentle with others
-Learning & Skills - I love learning new things
-Learning & Skills - I am good with numbers
-Learning & Skills - I am good with shapes and patterns
-Learning & Skills - I have a great memory for songs
-Learning & Skills - I am persistent when interested
-Personality - Friendly and affectionate.
-Technology Skill - Confident using technology, especially the iPad.
-Routine Following - Follows familiar routines well.
 Cognitive Skill - Has strong memory for songs, letters, and numbers.
-Personality - Responds well to praise and positive physical attention.
-Observation Skill - Engaged and observant during familiar tasks.
+Learning & Skills - Good with numbers, shapes, and patterns.
+Learning & Skills - Have strong memory for songs and letters.
+Learning & Skills - Love learning new things.
+Learning & Skills - Persistent when interested.
+Observation Skill - Stay focused and observant during tasks.
+Personality - Friendly, approachable, and affectionate.
+Personality - Have a good sense of humour.
+Personality - I am calm in most situations
+Personality - Kind, gentle, and trusting.
+Personality - Respond well to praise and encouragement.
+Routine Following - Follow familiar routines well.
+Technology Skill - Confident using technology, especially the iPad.

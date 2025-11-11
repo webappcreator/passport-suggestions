@@ -1,12 +1,10 @@
-Auditory Calming - Use a calm, gentle voice or soft sounds.
-Auditory Calming - Sing or hum quietly to soothe me.
 Auditory Calming - I like familiar songs.
-
-Physical Comfort - Give me a hug or cuddle.
-Physical Comfort - Pat my back gently.
-Physical Comfort - Hold my hand or sit close.
-Physical Comfort - Offer my favourite toy.
-Physical Comfort - Stay nearby to help me feel safe.
-
-Environmental - Take me to a quiet space.
+Auditory Calming - Sing or hum quietly to soothe me.
+Auditory Calming - Use a calm, gentle voice or soft sounds.
 Environmental - Give me time and space to settle.
+Environmental - Take me to a quiet space.
+Physical Comfort - A hug or cuddle from a trusted person.
+Physical Comfort - Hold my hand or sit close by a trusted person.
+Physical Comfort - Offer my favourite toy.
+Physical Comfort - Pat my back gently.
+Physical Comfort - Stay nearby to help me feel safe.

@@ -1,18 +1,13 @@
-Visual Learning - If new things are shown visually first, I understand better
-Visual Learning - Visual schedules help me understand routines
-Auditory Learning - A soft, calm voice helps when talking to me
-Auditory Learning - Cue me in by saying my name first
-Auditory Learning - I love songs — the more I hear them, the more I process
-Learning Strategies - Repetition helps me learn
-Learning Strategies - I learn best through hands-on activities
+Auditory Learning - Learn through repeated songs.
+Auditory Learning - Recognize my name before instructions.
+Auditory Learning - Respond to soft, calm voices.
+Cognitive Learning - Enjoy numbers, shapes, and repetition.
+Development Areas - Need help reading emotions.
+Development Areas - Need support with spatial awareness.
 Learning Strategies - Help me develop my memory with repetition
-Areas of Development - I need help with spatial awareness
-Areas of Development - I need help reading emotions
-Areas of Development - I'm still developing fine motor skills
-Areas of Development - I like numbers and shapes
-Auditory Learning - Learns through repetition and hearing songs multiple times.
-Development Areas - Needs help with spatial awareness and reading emotions.
-Social Learning - May need support with sharing or playing alongside peers.
-Cognitive Learning - Enjoys numbers and shapes and benefits from repetition to develop memory skills.
-Motor Skills - Still developing fine motor control for pencils or paint use.
-Visual Learning - Benefits from learning through visuals, photos, and physical interaction.
+Learning Strategies - I learn best through hands-on activities
+Learning Strategies - Repetition helps me learn
+Motor Skills - Developing fine motor control for drawing or painting.
+Social Learning - Need guidance when sharing or playing with others.
+Visual Learning - Understand best when things are shown first.
+Visual Learning - Visual schedules help me follow routines.

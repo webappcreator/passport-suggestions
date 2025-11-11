@@ -1,12 +1,10 @@
-Processing Time - Allow me time to process a question before I respond
-Processing Time - Give me wait time (10 seconds)
-Language Strategies - Try rephrasing a sentence if I don't understand
-Language Strategies - Use simple, clear language
-Language Strategies - Speak in a soft, calm voice
-Visual & Physical Supports - Use visual supports
-Visual & Physical Supports - Show me what you mean
-Visual & Physical Supports - Use gestures along with words
-Processing Time - Needs time to process verbal information before responding.
-Processing Time - May not respond right away but is still processing what was said.
-Transition Support - Can be supported by counting down from five before transitioning activities.
-Language Support - Benefits from people getting down to his level and using his name before repeating instructions.
+Language Strategies - Benefits from people getting down to my level and using his name before repeating instructions.
+Language Strategies - Rephrase if I don’t understand.
+Language Strategies - Speak in a calm, quiet voice.
+Language Strategies - Use my name before giving instructions.
+Language Strategies - Use short, simple sentences.
+Processing Time - Need extra time to respond.
+Processing Time - Wait about 10 seconds after asking me something.
+Transition Support - Give countdowns to help me change tasks smoothly.
+Visual & Physical Supports - Demonstrate actions when possible.
+Visual & Physical Supports - Use gestures or visuals to show meaning.
