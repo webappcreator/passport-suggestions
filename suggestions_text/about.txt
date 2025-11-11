@@ -1,6 +1,7 @@
 Family - I live with my mum, dad, and siblings
 Family - My grandparents live nearby
 Family - I am close to my extended family
+Family - I have siblings
 Personality - I am friendly and have a good sense of humour
 Personality - I am very calm, kind, and trusting
 Food & Diet - I am on a special diet (gluten-free, dairy-free, etc.)
