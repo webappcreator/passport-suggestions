@@ -3,12 +3,12 @@ Family - I love looking at family photos on the iPad.
 Family - My grandparents live nearby.
 Food - I drink from a baby bottle for comfort.
 Food - I eat best when food looks the same each time.
-Food - My favourite drink is _____.
-Food - My favourite food is _____.
-Personal Info - I am allergic to _____.
+Food - My favourite drink is _.
+Food - My favourite food is _.
+Personal Info - I am allergic to _.
 Personal Info - I am not yet toilet trained.
 Personal Info - I bring my own food.
-Personal Info - I don’t eat _____.
+Personal Info - I don’t eat _.
 Personal Info - I feel safest with calm voices and gentle faces.
 Personal Info - I may need extra time to process what you say.
 Personal Info - I sometimes take off my nappy.
@@ -31,4 +31,4 @@ Sensory Preference - I calm better in quiet or dim spaces.
 Sensory Preference - I enjoy cuddles, pats, and tickles.
 Sensory Preference - I enjoy rhythmic movement like rocking or swinging.
 Sensory Preference - I like when children are happy but not noisy.
-Sensory Preference - Loud sounds or bright lights can upset me. :)
+Sensory Preference - Loud sounds or bright lights can upset me.
