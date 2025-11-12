@@ -8,7 +8,7 @@ Food - My favourite food is _.
 Personal Info - I am allergic to _.
 Personal Info - I am not yet toilet trained.
 Personal Info - I bring my own food.
-Personal Info - I don’t eat _.
+Personal Info - I don't eat _.
 Personal Info - I feel safest with calm voices and gentle faces.
 Personal Info - I may need extra time to process what you say.
 Personal Info - I sometimes take off my nappy.
