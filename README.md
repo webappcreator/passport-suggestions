@@ -179,7 +179,7 @@ passport-suggestions/
 ✅ **Comments supported** - Document your suggestions  
 ✅ **Human-readable** - Anyone can understand  
 
-## 🤝 Contributing
+## 🤝 Contributing 
 
 If multiple people are editing:
 
