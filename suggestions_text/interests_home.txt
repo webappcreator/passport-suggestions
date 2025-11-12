@@ -1,4 +1,4 @@
-Creative Play - Enjoy colourful books like “_______”
+Creative Play - Enjoy colourful books like “_”
 Entertainment - Enjoy short stories, music, and dancing.
 Family Connection - Like looking at photos of family and people.
 Physical Activities - Enjoy walks and watching cars on the street.
@@ -6,7 +6,7 @@ Physical Activities - Like swinging, jumping, and active play.
 Physical Activities - Love the outdoors and exploring new spaces.
 Sensory - Anything that makes noise while moving
 Sensory - Enjoy water play but dislike wet clothes.
-Sensory - Love textures like _____.
+Sensory - Love textures like _.
 Toys & Play - Enjoy cars, trains, and anything that makes noise.
 Toys & Play - Like painting and playdough.
 Toys & Play - Sometimes try on other people’s shoes.
